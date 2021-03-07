@@ -8,6 +8,7 @@ def name
  end
 
 def bark
+  @this_dogs_name
   puts Woof!
   end
 end
